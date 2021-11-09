@@ -1,1 +1,1 @@
-# designmode
+# a project about design mode
